@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="480"
+   height="480"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="logo-cute-whale.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.86354165"
+     inkscape:cx="-55.006032"
+     inkscape:cy="303.40169"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14"
+     showborder="true"
+     shape-rendering="auto" />
+  <title
+     id="title2">Cute Whale</title>
+  <g
+     id="g12"
+     transform="matrix(-0.06760144,-1.2272548,1.3263063,-0.06255281,-46.998898,641.63229)"
+     style="fill:#2c89a0">
+    <title
+       id="title4">Layer 1</title>
+    <g
+       transform="rotate(90.426094,312.25626,247.64839)"
+       id="svg_2"
+       style="fill:#2c89a0">
+      <path
+         id="svg_374"
+         d="m 382.40576,189.00581 c -94.33307,-9.36799 -96.23529,122.97737 -152.45697,122.97737 -48.16403,0 -42.83452,-64.02949 -40.31933,-82.37332 5.57663,-0.51491 12.99862,-3.02128 22.11956,-10.09211 24.37464,-18.90102 9.62506,-55.69513 9.62506,-55.69513 -0.47641,12.88018 -14.29438,14.05296 -14.29438,14.05296 -25.82982,1.48859 -28.75306,26.51094 -29.61965,39.81964 -3.38992,-9.91705 -11.50128,-28.06372 -24.96321,-26.52899 -18.18834,2.072 -14.43909,11.05989 -33.93948,-1.38394 0,0 -3.01273,35.91314 27.17759,45.03585 7.84632,2.37159 14.02617,2.27314 18.83217,0.9977 -1.80795,191.90889 147.12902,235.7256 238.80553,187.43089 105.59525,-55.62274 73.36618,-224.87292 -20.96689,-234.24092 z"
+         fill="#86c986"
+         style="fill:#2c89a0" />
+      <g
+         id="svg_1"
+         style="fill:#2c89a0">
+        <path
+           id="svg_381"
+           d="m 390.83304,164.55121 c 2.2644,-3.48786 18.29715,-27.61305 47.63919,-22.04917 64.82837,12.29474 53.36059,-50.322925 2.25699,-40.64978 -40.03757,7.57973 -52.08481,60.65029 -53.06342,65.41922 0,0 -0.11197,0.64151 0.23749,0.77675 1.37909,0.52721 2.92975,-3.49702 2.92975,-3.49702 z"
+           fill="#86c986"
+           style="fill:#2c89a0" />
+        <path
+           id="svg_382"
+           d="m 385.87143,167.30252 c 0,0 9.00064,-143.547191 -93.17307,-112.848277 0,0 -47.2102,16.075115 -17.63067,51.892747 11.58969,14.03186 38.23306,14.00894 58.02133,11.40304 0,0 16.9256,-2.7048 28.29132,7.25706 11.36838,9.96186 19.92374,39.87484 21.47061,42.08982 1.74082,2.50006 3.02048,0.20561 3.02048,0.20561 z"
+           fill="#86c986"
+           style="fill:#2c89a0" />
+        <path
+           id="svg_376"
+           d="m 392.14652,129.63409 c 2.824,-8.73648 -11.64432,-80.215847 44.31527,-69.508331 28.30625,5.415874 20.92972,37.811634 -7.97348,38.545368 -27.14227,0.688042 -29.35321,22.371763 -33.64212,30.763743 0,0 -0.54846,1.38892 -1.62405,1.31583 0,0 -1.41385,-0.074 -1.07562,-1.11661 z"
+           fill="#86c986"
+           style="fill:#2c89a0" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata184">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Cute Whale</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
