@@ -1,0 +1,77 @@
+/* Fonts */
+@font-face {
+    src: url(/fonts/Luciole-Regular.ttf);
+    font-family: "Luciole-Regular";
+}
+
+/* HTML et body */
+html, body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+  font-family: "Luciole-Regular", Tahoma, Verdana, Geneva, sans-serif;
+  }
+
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+
+/* Header */
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+  header > .logo {
+    padding: 1rem;
+  }
+
+  header > nav { 
+    display: flex;
+    flex-direction: row;
+    /* align-self: stretch; */
+  }
+
+    header > nav > ul {
+      display: flex;
+      flex-direction: row;
+      /* align-self: stretch; */
+      text-align: center;
+    }
+
+      header > nav > ul > li {
+        list-style: none;
+        /* margin: 0 1rem; */
+      }
+
+        header > nav > ul > li > a {
+          padding: 1rem;
+        }
+
+/* Footer */
+footer {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+}
+  footer div {
+    text-align: center;
+  }
+
+  footer a {
+    padding: 0 0.5rem;
+  }
+
+/* Main */
+main {
+  flex: 1 0 auto;
+  padding: 0 15%;
+}
+
+  main a {
+    padding : 0 0.2rem;
+  }

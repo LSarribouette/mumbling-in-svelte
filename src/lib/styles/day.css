@@ -1,0 +1,29 @@
+html, body {
+  color: #242424;
+  background: #ffffff;
+}
+
+/* Header */
+nav a {
+    color: #054b5f;
+    text-decoration: none;
+  }
+
+  nav a:hover {
+    color: #ffffff;
+    background-color: #054b5f;  
+  }
+
+/* Footer */
+
+
+/* Main */
+main a {
+  color: #054b5f;
+  text-decoration: none;
+}
+
+  main a:hover {
+    color: #ffffff;
+    background-color: #054b5f;
+  }
